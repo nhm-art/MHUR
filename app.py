@@ -1,6 +1,6 @@
 import streamlit as st
 import os
-from google import generativeai
+from google import genai
 from google.genai import types
 from gtts import gTTS
 
